@@ -1,8 +1,5 @@
 name: Build ImmortalWrt Firmware1
-on:
-  schedule:
-    - cron: "0 0 20 * *"
-  workflow_dispatch:
+on: push
 
 
 env:
