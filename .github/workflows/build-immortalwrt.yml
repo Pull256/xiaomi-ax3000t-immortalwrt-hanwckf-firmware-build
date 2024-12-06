@@ -1,4 +1,4 @@
-name: Build ImmortalWrt Firmware
+name: Build ImmortalWrt Firmware1
 on:
   schedule:
     - cron: "0 0 20 * *"
